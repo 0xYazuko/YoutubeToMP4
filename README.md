@@ -9,8 +9,12 @@
 pip install pytube
 ```
 
-> Puis lancer le script à l'aide de cette commande!
+> Puis lancer le script à l'aide de cette commande:
 
 ```
 python main.py
 ```
+
+## Vidéo de configuration
+
+
