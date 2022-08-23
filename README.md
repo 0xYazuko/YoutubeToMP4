@@ -15,10 +15,3 @@ pip install pytube
 python main.py
 ```
 
-## Vidéo de configuration
-
-</head>
-<body> 
-<video controls width="600"> <source src="YoutubeToMP4.mp4"/> </video>
-</body>
-</head>
